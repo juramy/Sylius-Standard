@@ -1,6 +1,6 @@
 Fork of v0.19.0 of [Sylius](http://sylius.org).
 
-[![Build status on Linux](https://travis-ci.org/juramy/Sylius-Standard.svg?branch=master)](http://travis-ci.org/juramy/Sylius)
+[![Build status on Linux](https://travis-ci.org/juramy/Sylius-Standard.svg?branch=master)](http://travis-ci.org/juramy/Sylius-Standard)
 
 ---
 
