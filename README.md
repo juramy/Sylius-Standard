@@ -1,4 +1,10 @@
-![Sylius](https://dl.dropboxusercontent.com/u/46579820/sylius-logo.jpg)
+Fork of v0.19.0 of [Sylius](http://sylius.org).
+
+[![Build status on Linux](https://travis-ci.org/juramy/Sylius-Standard.svg?branch=master)](http://travis-ci.org/juramy/Sylius)
+
+---
+
+![Sylius](http://sylius.org/assets/img/logo.png)
 
 [![Gitter chat](https://badges.gitter.im/Sylius/Sylius.png)](https://gitter.im/Sylius/Sylius)
 [![License](https://img.shields.io/packagist/l/Sylius/Sylius.svg)](https://packagist.org/packages/sylius/sylius)
